@@ -1,2 +1,2 @@
 # standards
-This repo will contain all the images I will use to test the various softwares/notbeooks
+This repo will contain all the images, ascii files types the notebooks should be able to handle. 
